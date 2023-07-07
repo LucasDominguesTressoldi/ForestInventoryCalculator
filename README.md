@@ -1,8 +1,15 @@
 # ForestInventoryCalculator🌳🌳🌳
 
-When I was an apprentice at Sylvamo Brasil, I developed a forest inventory calculator that replaced the old one they had.
+#### When I was an apprentice at Sylvamo Brasil, I developed a forest inventory calculator that replaced the old one they had.
 
-### 📚⬇️ All required libraries and installations are listed below::
+‼️ I think it's important to point out that this was my first development experience in a professional environment and there were no other developers to help me, both with bugs and problems, and with questions like clean architecture and good development practices
+
+‼️ I also had to follow some instructions such as: All the code needed to be in just one file
+
+❗However, I believe that this experience was crucial for my professional and personal development  
+😁 I am grateful for the opportunity and will always treasure the teachings with fondness and happiness
+
+### 📚⬇️ All required libraries and installations are listed below:
 pip install tqdm  
 pip install pandas  
 pip install matplotlib  
